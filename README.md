@@ -1,5 +1,4 @@
 # Visualizations-on-Power-BI
-Visualizations and analysis
 
 ### Brief information about dataset
 Id - Indicates the number of the process that occurred,
@@ -16,4 +15,6 @@ Visibility - shows whether the dashboard is running in the background or the ope
 Date Time - Shows the time the system was used,
 
 ### Brief information about visualization
-The given visualization is related to the use of the reporting of transaction and operators' system.
+The given visualization is related to the use of the reporting of transactions and operators' workload. (pdf form)
+In the first page, you can click dropdown and choose related branche in order to get general information about number of daily or monthly transations and employees. You can easily informed in which branche there is much more workload than others.
+In the second page, you can choose Operators' ID in order to get insight of general workloads of employees, as well as the monthly performance, transactions,visibilitiy and events they used mostly.
