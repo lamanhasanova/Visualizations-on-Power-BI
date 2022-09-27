@@ -1,4 +1,4 @@
-# Visualizations-on-Power-BI
+# Power-BI/ Visualization
 
 ### Brief information about dataset
 * Id - Indicates the number of the process that occurred,
